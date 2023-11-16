@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149223582,"WSB","1700105291","unknown","100","51100","100","2023-11-16T03:28:13.369Z","2023-11-16T03:28:13.369Z"

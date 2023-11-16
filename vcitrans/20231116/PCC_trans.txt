@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149457514,"PCC","1700121009","unknown","300","17000","300","2023-11-16T07:50:10.526Z","2023-11-16T07:50:10.526Z"

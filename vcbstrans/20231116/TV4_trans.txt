@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TV4","09:29:01",13.4,0,300,300,

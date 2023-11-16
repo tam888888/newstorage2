@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BMJ",144952,"/Date(1700121000000)/",13600,300,300,3940000,1300,false,10.57

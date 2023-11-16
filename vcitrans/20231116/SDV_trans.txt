@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149405119,"SDV","1700118554","s","100","28200","100","2023-11-16T07:09:15.533Z","2023-11-16T07:09:15.533Z"

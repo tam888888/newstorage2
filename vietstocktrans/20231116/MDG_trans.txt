@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MDG",144425,"/Date(1700120701000)/",12300,100,200,2000000,-600,false,-4.65
+"MDG",130639,"/Date(1700114827000)/",12200,100,100,1000000,-700,true,-5.43

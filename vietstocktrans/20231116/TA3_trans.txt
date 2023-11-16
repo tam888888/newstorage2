@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TA3",135313,"/Date(1700117580000)/",6000,100,1100,5900000,700,false,13.21
+"TA3",95008,"/Date(1700103000000)/",5300,1000,1000,5300000,0,true,0

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149288690,"VMS","1700114413","s","293000","31500","293000","2023-11-16T06:00:15.618Z","2023-11-16T06:00:15.618Z"

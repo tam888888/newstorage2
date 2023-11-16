@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"X20","09:31:36",8.1,0,1700,1700,

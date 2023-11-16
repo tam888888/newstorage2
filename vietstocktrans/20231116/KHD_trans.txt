@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"KHD",144109,"/Date(1700120460000)/",6800,700,1900,12920000,0,false,0
+"KHD",143014,"/Date(1700119800000)/",6800,600,1200,8160000,0,true,0
+"KHD",142633,"/Date(1700119620000)/",6800,100,600,4080000,0,false,0
+"KHD",142133,"/Date(1700119320000)/",6800,500,500,3400000,0,true,0

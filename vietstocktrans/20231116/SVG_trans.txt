@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SVG",100638,"/Date(1700104020000)/",5400,40,151,815400,600,false,12.5
+"SVG",92030,"/Date(1700101260000)/",5400,11,111,599400,600,false,12.5
+"SVG",90443,"/Date(1700100300000)/",5400,100,100,540000,600,false,12.5

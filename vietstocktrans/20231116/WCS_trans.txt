@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"WCS",90034,"/Date(1700100008000)/",167200,100,100,16720000,-16800,false,-9.13

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ANT",103839,"/Date(1700105940000)/",10700,3100,4600,49250000,-300,true,-2.73
+"ANT",102439,"/Date(1700105100000)/",10700,1000,1500,16080000,-300,true,-2.73
+"ANT",95150,"/Date(1700103120000)/",10700,500,500,5350000,-300,true,-2.73

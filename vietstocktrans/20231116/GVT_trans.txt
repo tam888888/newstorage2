@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GVT",92108,"/Date(1700101260000)/",76500,100,100,7650000,1400,true,1.86

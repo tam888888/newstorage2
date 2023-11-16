@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"FT1",91331,"/Date(1700100840000)/",39500,300,500,19700000,500,false,1.28
+"FT1",91311,"/Date(1700100780000)/",39500,100,200,7850000,500,false,1.28
+"FT1",91239,"/Date(1700100780000)/",39000,100,100,3900000,0,false,0

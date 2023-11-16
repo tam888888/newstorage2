@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149417333,"KHS","1700118990","unknown","1000","9400","1000","2023-11-16T07:16:31.545Z","2023-11-16T07:16:31.545Z"

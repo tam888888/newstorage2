@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SGI",110742,"/Date(1700107680000)/",14000,3000,3000,42000000,0,true,0

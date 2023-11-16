@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BTP",144425,"/Date(1700120700000)/",13200,100,700,9000000,0,false,0
+"BTP",134613,"/Date(1700117205000)/",13000,100,600,7000000,-200,true,-1.52
+"BTP",102202,"/Date(1700104934000)/",13000,500,500,6000000,-200,true,-1.52

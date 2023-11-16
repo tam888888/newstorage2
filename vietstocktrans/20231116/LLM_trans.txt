@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LLM",142707,"/Date(1700119620000)/",8900,1500,1600,14220000,-600,true,-6.32
+"LLM",131241,"/Date(1700115180000)/",8700,100,100,870000,-800,true,-8.42

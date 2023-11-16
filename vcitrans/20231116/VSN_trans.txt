@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149291518,"VSN","1700114491","b","100","20000","100","2023-11-16T06:01:32.495Z","2023-11-16T06:01:32.495Z"

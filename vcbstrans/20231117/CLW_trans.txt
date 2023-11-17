@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CLW","14:03:26",34,2.15,100,100,"S"

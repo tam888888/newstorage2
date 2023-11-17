@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149459147,"BVL","1700186638","unknown","300","13600","300","2023-11-17T02:03:59.155Z","2023-11-17T02:03:59.155Z"

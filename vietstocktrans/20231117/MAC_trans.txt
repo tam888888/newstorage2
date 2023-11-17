@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MAC",111913,"/Date(1700194752000)/",10500,1200,2000,20460000,600,false,6.06
+"MAC",110904,"/Date(1700194144000)/",10200,300,800,8060000,300,false,3.03
+"MAC",92104,"/Date(1700187663000)/",10000,500,500,5000000,100,true,1.01

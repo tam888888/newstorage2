@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149599945,"LIX","1700191780","s","100","49000","100","2023-11-17T03:29:53.216Z","2023-11-17T03:29:53.216Z"

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149493384,"WTC","1700188214","s","400","12200","400","2023-11-17T02:30:15.210Z","2023-11-17T02:30:15.210Z"

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HNA",102858,"/Date(1700191740000)/",18000,100,100,1800000,-100,false,-0.55

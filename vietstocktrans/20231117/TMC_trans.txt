@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TMC",104539,"/Date(1700192739000)/",9000,100,4000,36000000,-200,false,-2.17
+"TMC",104515,"/Date(1700192715000)/",9000,3700,3900,35100000,-200,false,-2.17
+"TMC",104441,"/Date(1700192681000)/",9000,200,200,1800000,-200,true,-2.17

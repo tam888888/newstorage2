@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SNZ",144719,"/Date(1700207220000)/",28400,200,701,19183700,600,false,2.16
+"SNZ",143519,"/Date(1700206500000)/",27000,500,501,13543700,-800,false,-2.88

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"RCL",105712,"/Date(1700193432000)/",12800,1000,1000,12800000,0,false,0

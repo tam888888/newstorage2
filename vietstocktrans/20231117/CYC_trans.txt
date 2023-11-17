@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CYC",94337,"/Date(1700189040000)/",2300,500,500,1150000,-200,true,-8

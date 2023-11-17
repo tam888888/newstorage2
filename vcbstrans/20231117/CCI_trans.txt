@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CCI","10:18:44",19.7,0,100,100,"B"

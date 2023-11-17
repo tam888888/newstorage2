@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BT6",94322,"/Date(1700188980000)/",3700,100,2100,7050000,0,false,0
+"BT6",91224,"/Date(1700187120000)/",3400,1400,2000,6680000,-300,false,-8.11
+"BT6",91013,"/Date(1700187000000)/",3200,600,600,1920000,-500,false,-13.51

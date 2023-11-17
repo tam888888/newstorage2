@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"THP",134536,"/Date(1700203560000)/",9100,2000,5500,50100000,-100,false,-1.09
+"THP",131547,"/Date(1700201760000)/",9100,3000,3500,31900000,-100,true,-1.09
+"THP",103645,"/Date(1700192220000)/",9200,500,500,4600000,0,true,0

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PCC",134010,"/Date(1700203200000)/",17100,200,301,5137000,100,true,0.59
+"PCC",105129,"/Date(1700193060000)/",17000,1,101,1717000,0,true,0
+"PCC",91957,"/Date(1700187600000)/",17000,100,100,1700000,0,false,0

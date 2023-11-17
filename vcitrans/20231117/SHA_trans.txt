@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149467106,"SHA","1700187455","b","100","4840","200","2023-11-17T02:17:49.185Z","2023-11-17T02:17:49.185Z"
+149461245,"SHA","1700187290","unknown","100","4760","0","2023-11-17T02:15:04.195Z","2023-11-17T02:15:04.195Z"

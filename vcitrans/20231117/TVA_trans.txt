@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149530235,"TVA","1700189167","b","100","10900","100","2023-11-17T02:46:09.194Z","2023-11-17T02:46:09.194Z"

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"WTC","09:30:14",12.2,-1,400,400,

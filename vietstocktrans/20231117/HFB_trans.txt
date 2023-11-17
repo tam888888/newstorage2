@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HFB",103016,"/Date(1700191800000)/",8600,100,200,1720000,200,false,2.38
+"HFB",100640,"/Date(1700190420000)/",8600,100,100,860000,200,false,2.38

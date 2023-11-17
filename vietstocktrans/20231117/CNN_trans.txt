@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CNN",140517,"/Date(1700204700000)/",40600,200,200,8120000,100,false,0.25

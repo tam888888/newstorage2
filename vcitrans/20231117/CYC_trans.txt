@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149524546,"CYC","1700189017","s","500","2300","500","2023-11-17T02:43:39.201Z","2023-11-17T02:43:39.201Z"

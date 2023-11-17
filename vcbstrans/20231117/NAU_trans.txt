@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NAU","14:32:42",5,-0.1,100,100,

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VES","10:21:53",2.3,0,200,200,

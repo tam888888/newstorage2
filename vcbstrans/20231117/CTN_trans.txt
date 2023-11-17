@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CTN","13:40:24",0.7,0,100,100,

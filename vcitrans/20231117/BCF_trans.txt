@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149969065,"BCF","1700204368","b","200","30000","200","2023-11-17T06:59:30.475Z","2023-11-17T06:59:30.475Z"

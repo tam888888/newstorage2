@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"S27",141320,"/Date(1700205180000)/",900,100,500,400000,100,false,12.5
+"S27",135153,"/Date(1700203920000)/",800,300,400,310000,0,false,0
+"S27",104431,"/Date(1700192700000)/",700,100,100,70000,-100,true,-12.5

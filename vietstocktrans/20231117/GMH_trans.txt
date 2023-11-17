@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GMH",141655,"/Date(1700205450000)/",9880,100,400,3000000,-20,false,-0.2
+"GMH",140101,"/Date(1700204495000)/",9880,200,300,2000000,-20,false,-0.2
+"GMH",135840,"/Date(1700204354000)/",9870,100,100,0,-30,false,-0.3

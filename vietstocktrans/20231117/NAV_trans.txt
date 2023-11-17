@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NAV",133932,"/Date(1700203203000)/",15750,100,500,8000000,-750,true,-4.55
+"NAV",130009,"/Date(1700200807000)/",16400,300,400,6000000,-100,false,-0.61
+"NAV",110840,"/Date(1700194138000)/",16450,100,100,1000000,-50,false,-0.3

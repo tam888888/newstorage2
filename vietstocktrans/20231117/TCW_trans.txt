@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TCW",143106,"/Date(1700206260000)/",26900,2000,2502,67344800,-100,false,-0.37
+"TCW",112111,"/Date(1700194860000)/",26900,100,502,13544800,-100,false,-0.37
+"TCW",95244,"/Date(1700189580000)/",27000,400,402,10854800,0,true,0

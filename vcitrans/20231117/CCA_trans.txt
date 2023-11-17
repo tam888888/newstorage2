@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149812807,"CCA","1700202534","unknown","1100","15000","1100","2023-11-17T06:28:55.494Z","2023-11-17T06:28:55.494Z"

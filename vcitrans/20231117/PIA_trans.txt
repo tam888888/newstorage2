@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+149969764,"PIA","1700204376","unknown","600","26800","600","2023-11-17T06:59:37.485Z","2023-11-17T06:59:37.485Z"

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DMS",145158,"/Date(1700466720000)/",8000,100,2700,21600000,-1400,true,-14.89
+"DMS",144930,"/Date(1700466600000)/",8000,1300,2600,20800000,-1400,false,-14.89
+"DMS",105516,"/Date(1700452500000)/",8000,1300,1300,10400000,-1400,false,-14.89

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NAP","09:39:04",7.5,0.6,400,400,

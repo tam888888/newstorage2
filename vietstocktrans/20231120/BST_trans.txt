@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BST",140747,"/Date(1700464068000)/",13100,100,900,12390000,-1100,true,-7.75
+"BST",140403,"/Date(1700463844000)/",15600,300,800,11080000,1400,false,9.86
+"BST",135914,"/Date(1700463554000)/",12800,500,500,6400000,-1400,true,-9.86

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150457256,"TGP","1700464678","s","300","4700","300","2023-11-20T07:18:00.089Z","2023-11-20T07:18:00.089Z"

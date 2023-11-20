@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150496409,"IFS","1700466497","b","100","27400","100","2023-11-20T07:48:18.047Z","2023-11-20T07:48:18.047Z"

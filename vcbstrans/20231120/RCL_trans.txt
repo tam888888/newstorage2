@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"RCL","14:22:03",12.7,-0.1,1000,1000,

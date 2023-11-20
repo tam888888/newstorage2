@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SDK",141058,"/Date(1700464260000)/",28000,100,400,10810000,-2500,false,-8.2
+"SDK",134201,"/Date(1700462520000)/",27900,100,300,8010000,-2600,false,-8.52
+"SDK",130003,"/Date(1700460000000)/",26100,200,200,5220000,-4400,true,-14.43

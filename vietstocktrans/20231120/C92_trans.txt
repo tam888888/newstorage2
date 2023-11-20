@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"C92",101635,"/Date(1700450220000)/",3300,100,100,330000,100,false,3.13

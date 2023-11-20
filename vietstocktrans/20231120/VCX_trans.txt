@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VCX",130005,"/Date(1700460000000)/",3800,100,100,380000,-600,true,-13.64

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AGP",142609,"/Date(1700465160000)/",24100,100,600,14640000,-600,true,-2.43
+"AGP",142326,"/Date(1700464980000)/",24100,200,500,12230000,-600,true,-2.43
+"AGP",95731,"/Date(1700449080000)/",24700,300,300,7410000,0,false,0

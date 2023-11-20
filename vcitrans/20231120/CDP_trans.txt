@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150328690,"CDP","1700460743","b","100","11700","100","2023-11-20T06:12:25.992Z","2023-11-20T06:12:25.992Z"

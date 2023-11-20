@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150351528,"TNW","1700461708","b","100","11000","100","2023-11-20T06:28:30.044Z","2023-11-20T06:28:30.044Z"

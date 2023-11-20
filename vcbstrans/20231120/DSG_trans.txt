@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DSG","14:28:10",4.1,0,800,800,

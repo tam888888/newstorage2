@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DTK",93114,"/Date(1700447474000)/",10800,100,100,1080000,0,false,0

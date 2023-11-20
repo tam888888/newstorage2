@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VSI","13:20:28",18.75,0,2200,2200,"B"

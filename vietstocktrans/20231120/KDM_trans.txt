@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"KDM",130654,"/Date(1700460414000)/",18400,6000,6700,122740000,-100,false,-0.54
+"KDM",104507,"/Date(1700451908000)/",18500,100,700,12340000,0,false,0
+"KDM",95013,"/Date(1700448614000)/",17400,600,600,10490000,-1100,true,-5.95

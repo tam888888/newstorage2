@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PHP",143043,"/Date(1700465460000)/",21500,3000,5003,107566000,-300,false,-1.38
+"PHP",142837,"/Date(1700465340000)/",21500,2000,2003,43066000,-300,true,-1.38

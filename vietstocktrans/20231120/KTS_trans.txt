@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"KTS",135824,"/Date(1700463504000)/",37300,700,1700,63310000,-300,true,-0.8
+"KTS",110119,"/Date(1700452879000)/",37200,500,1000,37200000,-400,true,-1.06
+"KTS",102424,"/Date(1700450664000)/",37200,500,500,18600000,-400,true,-1.06

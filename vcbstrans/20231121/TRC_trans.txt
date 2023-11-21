@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TRC","09:47:45",31.3,0.2,2300,2300,"B"

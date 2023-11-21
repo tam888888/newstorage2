@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PEQ",130014,"/Date(1700546400000)/",34000,1400,1409,48024000,-4500,true,-11.69

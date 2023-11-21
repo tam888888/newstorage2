@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VTX","14:34:49",6,-4,4000,4000,

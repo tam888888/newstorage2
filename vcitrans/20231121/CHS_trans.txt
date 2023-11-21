@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150687596,"CHS","1700546860","b","100","10000","100","2023-11-21T06:07:43.568Z","2023-11-21T06:07:43.568Z"

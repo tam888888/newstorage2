@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CET",144506,"/Date(1700552701000)/",7000,3000,3400,23850000,-200,false,-2.78
+"CET",141813,"/Date(1700551095000)/",7200,300,400,2850000,0,false,0
+"CET",103734,"/Date(1700537855000)/",6900,100,100,690000,-300,true,-4.17

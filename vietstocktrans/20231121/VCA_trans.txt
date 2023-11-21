@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VCA",93109,"/Date(1700533878000)/",8800,300,500,4000000,120,false,1.38
+"VCA",93037,"/Date(1700533845000)/",8800,200,200,1000000,120,true,1.38

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VQC","09:00:10",13.1,-1.7,100,100,

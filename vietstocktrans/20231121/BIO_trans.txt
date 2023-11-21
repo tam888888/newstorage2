@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BIO",133920,"/Date(1700548740000)/",20300,300,300,6090000,0,false,0

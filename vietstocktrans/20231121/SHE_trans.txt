@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SHE",130200,"/Date(1700546522000)/",10700,100,600,6180000,600,false,5.94
+"SHE",103537,"/Date(1700537739000)/",9700,400,500,5110000,-400,true,-3.96
+"SHE",90413,"/Date(1700532254000)/",11000,100,100,1100000,900,false,8.91

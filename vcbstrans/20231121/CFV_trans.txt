@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CFV","10:38:36",20.4,-3.6,200,200,

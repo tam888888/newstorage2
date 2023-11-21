@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150577282,"THB","1700535760","s","600","9800","600","2023-11-21T03:02:42.406Z","2023-11-21T03:02:42.406Z"

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"HRC","14:45:01",49.5,-3.2,100,100,

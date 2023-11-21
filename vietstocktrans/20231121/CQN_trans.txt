@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CQN",90909,"/Date(1700532540000)/",30200,500,1900,57090000,100,false,0.33
+"CQN",90900,"/Date(1700532540000)/",30100,300,1400,41990000,0,true,0
+"CQN",90834,"/Date(1700532540000)/",30000,1100,1100,32960000,-100,true,-0.33

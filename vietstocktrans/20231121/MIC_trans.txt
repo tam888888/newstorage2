@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MIC",130006,"/Date(1700546400000)/",12600,200,251,3162600,0,false,0

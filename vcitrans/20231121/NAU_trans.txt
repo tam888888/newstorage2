@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150812873,"NAU","1700550868","s","100","4900","100","2023-11-21T07:14:31.040Z","2023-11-21T07:14:31.040Z"

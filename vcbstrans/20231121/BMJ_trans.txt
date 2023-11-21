@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BMJ","13:00:03",12.2,-0.2,400,400,

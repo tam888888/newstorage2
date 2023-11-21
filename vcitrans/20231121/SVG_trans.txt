@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150618259,"SVG","1700538118","s","100","4300","100","2023-11-21T03:42:00.413Z","2023-11-21T03:42:00.413Z"

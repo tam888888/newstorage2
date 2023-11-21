@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150499206,"MML","1700532838","unknown","100","26900","100","2023-11-21T02:14:00.346Z","2023-11-21T02:14:00.346Z"

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VNC",105016,"/Date(1700538618000)/",50000,500,1000,50000000,0,false,0
+"VNC",104334,"/Date(1700538216000)/",50000,200,500,25000000,0,false,0
+"VNC",102230,"/Date(1700536951000)/",50000,300,300,15000000,0,true,0

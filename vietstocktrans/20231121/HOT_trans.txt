@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HOT",134400,"/Date(1700549040000)/",17700,11,211,3734700,2300,false,14.94
+"HOT",133139,"/Date(1700548320000)/",17700,100,200,3540000,2300,false,14.94
+"HOT",111536,"/Date(1700540160000)/",17700,100,100,1770000,2300,false,14.94

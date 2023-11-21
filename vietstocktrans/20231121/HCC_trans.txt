@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HCC",135255,"/Date(1700549577000)/",9600,400,500,4810000,-100,true,-1.03
+"HCC",111650,"/Date(1700540212000)/",9700,100,100,970000,0,false,0

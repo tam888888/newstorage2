@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CLW",142555,"/Date(1700551590000)/",38450,100,300,10000000,2150,false,5.92
+"CLW",100211,"/Date(1700535735000)/",33800,100,200,6000000,-2500,true,-6.89
+"CLW",92814,"/Date(1700533703000)/",33800,100,100,3000000,-2500,false,-6.89

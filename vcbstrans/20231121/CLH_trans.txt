@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CLH","13:59:41",24.3,-0.5,300,300,

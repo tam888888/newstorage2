@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VRG",145537,"/Date(1700553360000)/",25000,200,2500,60760000,500,false,2.04
+"VRG",100642,"/Date(1700536020000)/",23500,1300,2300,55760000,-1000,true,-4.08
+"VRG",92238,"/Date(1700533380000)/",24500,1000,1000,24500000,0,false,0

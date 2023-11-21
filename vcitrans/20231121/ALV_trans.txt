@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150518111,"ALV","1700533523","unknown","1400","4100","1400","2023-11-21T02:25:24.370Z","2023-11-21T02:25:24.370Z"

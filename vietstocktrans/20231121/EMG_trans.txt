@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"EMG",102716,"/Date(1700537220000)/",17900,100,100,1790000,-11800,false,-39.73

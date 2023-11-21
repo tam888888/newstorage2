@@ -1,0 +1,2 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"upcom:75299",10700,100,100,"09:35:10",10800,"bu",-100,-0.9,"D","LeTable"

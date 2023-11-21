@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150659153,"LAI","1700540441","s","1000","41300","1000","2023-11-21T04:20:43.459Z","2023-11-21T04:20:43.459Z"

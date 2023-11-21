@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BHP","14:15:41",6.4,-0.9,100,100,

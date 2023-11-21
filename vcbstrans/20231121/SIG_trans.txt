@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SIG","09:33:20",6.2,0.6,500,500,

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SDV","13:10:13",27.1,-1.1,2100,2100,

@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DXV",103301,"/Date(1700537597000)/",3710,4000,5100,18000000,0,true,0
+"DXV",93921,"/Date(1700534370000)/",3710,100,1100,4000000,0,false,0
+"DXV",93921,"/Date(1700534370000)/",3710,900,1000,3000000,0,false,0
+"DXV",92522,"/Date(1700533530000)/",3710,100,100,0,0,false,0

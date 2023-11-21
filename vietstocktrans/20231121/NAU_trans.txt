@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NAU",141427,"/Date(1700550840000)/",4900,100,100,490000,-100,false,-2

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150936718,"UDL","1700622036","b","1100","12000","1100","2023-11-22T03:00:37.784Z","2023-11-22T03:00:37.784Z"

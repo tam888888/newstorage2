@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"C21",140847,"/Date(1700636940000)/",12200,200,800,9760000,0,true,0
+"C21",140827,"/Date(1700636880000)/",12200,200,600,7320000,0,true,0
+"C21",135340,"/Date(1700636040000)/",12200,400,400,4880000,0,true,0

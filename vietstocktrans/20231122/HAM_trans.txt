@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HAM",103629,"/Date(1700624160000)/",26300,1000,3000,78900000,200,false,0.77
+"HAM",103029,"/Date(1700623800000)/",26300,2000,2000,52600000,200,false,0.77

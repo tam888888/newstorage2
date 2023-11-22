@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+151036189,"BAX","1700625727","unknown","200","45000","200","2023-11-22T04:02:08.837Z","2023-11-22T04:02:08.837Z"

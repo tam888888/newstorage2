@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BBC","13:16:07",52.7,0,100,100,"S"

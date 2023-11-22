@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SIG",135946,"/Date(1700636400000)/",5600,5100,7000,39200000,-600,true,-9.68
+"SIG",135837,"/Date(1700636340000)/",5600,700,1900,10640000,-600,false,-9.68
+"SIG",135714,"/Date(1700636220000)/",5600,1200,1200,6720000,-600,true,-9.68

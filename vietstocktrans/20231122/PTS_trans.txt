@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PTS",102810,"/Date(1700623690000)/",8600,100,100,860000,-200,true,-2.27

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+151300113,"BDW","1700639627","b","100","21500","100","2023-11-22T07:53:49.019Z","2023-11-22T07:53:49.019Z"

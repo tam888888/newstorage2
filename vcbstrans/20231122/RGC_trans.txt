@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"RGC","14:45:24",4.8,-0.2,400,400,

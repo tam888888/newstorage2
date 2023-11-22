@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PTI",131909,"/Date(1700633949000)/",41000,200,1900,75440000,2200,false,5.67
+"PTI",131901,"/Date(1700633941000)/",41000,1000,1700,67240000,2200,false,5.67
+"PTI",103709,"/Date(1700624229000)/",38800,700,700,27160000,0,false,0

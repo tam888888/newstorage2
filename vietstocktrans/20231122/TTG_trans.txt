@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TTG",90129,"/Date(1700618460000)/",8600,100,100,860000,0,false,0

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+151070566,"DNA","1700632816","unknown","200","23000","200","2023-11-22T06:00:19.177Z","2023-11-22T06:00:19.177Z"

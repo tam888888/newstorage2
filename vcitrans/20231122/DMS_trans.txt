@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150856943,"DMS","1700619573","s","300","7000","300","2023-11-22T02:19:34.746Z","2023-11-22T02:19:34.746Z"

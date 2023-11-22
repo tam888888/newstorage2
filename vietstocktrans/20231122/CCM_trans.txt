@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CCM",145234,"/Date(1700639580000)/",36800,100,105,3840500,4700,false,14.64

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+150934392,"VLA","1700621973","b","200","19800","200","2023-11-22T02:59:35.773Z","2023-11-22T02:59:35.773Z"

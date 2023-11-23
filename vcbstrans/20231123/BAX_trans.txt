@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"BAX","11:21:52",47.9,2.9,400,400,

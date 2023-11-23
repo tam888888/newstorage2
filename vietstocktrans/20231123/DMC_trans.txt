@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DMC",91736,"/Date(1700705862000)/",60400,100,100,6000000,0,true,0

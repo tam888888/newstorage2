@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CDR",145326,"/Date(1700725980000)/",5000,300,900,4500000,-800,false,-13.79
+"CDR",144742,"/Date(1700725680000)/",5000,500,600,3000000,-800,true,-13.79
+"CDR",93259,"/Date(1700706780000)/",5000,100,100,500000,-800,true,-13.79

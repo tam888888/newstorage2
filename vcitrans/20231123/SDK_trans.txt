@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+151693331,"SDK","1700723662","unknown","100","28000","100","2023-11-23T07:14:22.663Z","2023-11-23T07:14:22.663Z"

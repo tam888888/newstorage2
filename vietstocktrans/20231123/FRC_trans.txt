@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"FRC",90052,"/Date(1700704800000)/",22700,200,200,4540000,0,true,0

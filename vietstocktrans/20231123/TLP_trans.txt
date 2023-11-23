@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TLP",145942,"/Date(1700726400000)/",6500,100,100,650000,200,false,3.17

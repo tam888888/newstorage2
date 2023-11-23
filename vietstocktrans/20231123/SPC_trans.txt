@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SPC",130456,"/Date(1700719496000)/",12200,50,185,2278500,-700,false,-5.43
+"SPC",130022,"/Date(1700719203000)/",12200,35,135,1678500,-700,false,-5.43
+"SPC",92700,"/Date(1700706420000)/",12200,100,100,1220000,-700,true,-5.43

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TIE","09:32:15",6.1,0.5,100,100,

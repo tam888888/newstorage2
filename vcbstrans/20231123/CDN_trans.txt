@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CDN","14:18:36",26.8,0.9,2700,2700,

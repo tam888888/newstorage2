@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VFC",130938,"/Date(1700719800000)/",78300,100,115,8980400,3100,true,4.12

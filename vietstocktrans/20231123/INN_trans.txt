@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"INN",141435,"/Date(1700723676000)/",42000,700,1400,58890000,-700,true,-1.64
+"INN",133322,"/Date(1700721203000)/",42000,500,700,29490000,-700,true,-1.64
+"INN",111539,"/Date(1700712939000)/",42500,200,200,8490000,-200,false,-0.47

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BBS",142714,"/Date(1700724434000)/",11000,1600,2000,22000000,0,false,0
+"BBS",133036,"/Date(1700721037000)/",11000,300,400,4400000,0,false,0
+"BBS",91039,"/Date(1700705439000)/",11000,100,100,1100000,0,false,0

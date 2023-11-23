@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HPW",144212,"/Date(1700725320000)/",14900,2000,2000,29800000,-100,true,-0.67

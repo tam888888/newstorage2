@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AME",142859,"/Date(1700724539000)/",8600,200,600,4980000,-100,false,-1.15
+"AME",132424,"/Date(1700720664000)/",8200,300,400,3280000,-500,true,-5.75
+"AME",103055,"/Date(1700710255000)/",8200,100,100,820000,-500,true,-5.75

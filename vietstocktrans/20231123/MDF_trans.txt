@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MDF",104603,"/Date(1700711160000)/",9000,100,200,1880000,0,false,0
+"MDF",90555,"/Date(1700705160000)/",9800,100,100,980000,800,false,8.89

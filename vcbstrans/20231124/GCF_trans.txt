@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"GCF","10:08:22",12.5,0,200,200,

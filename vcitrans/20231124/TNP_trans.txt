@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152054672,"TNP","1700805680","s","100","21000","100","2023-11-24T06:01:21.644Z","2023-11-24T06:01:21.644Z"

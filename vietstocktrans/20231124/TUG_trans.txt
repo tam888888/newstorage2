@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TUG",103534,"/Date(1700796960000)/",14500,100,300,4350000,-500,false,-3.33
+"TUG",103238,"/Date(1700796780000)/",14500,100,200,2900000,-500,false,-3.33
+"TUG",103213,"/Date(1700796720000)/",14500,100,100,1450000,-500,false,-3.33

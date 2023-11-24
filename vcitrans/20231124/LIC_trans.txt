@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152327146,"LIC","1700811790","unknown","1000","16000","1000","2023-11-24T07:43:11.730Z","2023-11-24T07:43:11.730Z"

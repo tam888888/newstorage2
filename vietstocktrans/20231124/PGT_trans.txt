@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PGT",144517,"/Date(1700811902000)/",3000,900,2800,8400000,-200,false,-6.25
+"PGT",140503,"/Date(1700809503000)/",3000,1000,1900,5700000,-200,true,-6.25
+"PGT",140351,"/Date(1700809431000)/",3000,900,900,2700000,-200,true,-6.25

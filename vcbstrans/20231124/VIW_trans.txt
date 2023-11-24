@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VIW","14:47:10",11.8,1.5,100,100,

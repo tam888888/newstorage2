@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"MML",142108,"/Date(1700810460000)/",23500,7,207,4876900,-3200,false,-11.99
+"MML",104558,"/Date(1700797560000)/",23500,100,200,4690000,-3200,true,-11.99
+"MML",92655,"/Date(1700792820000)/",23400,100,100,2340000,-3300,true,-12.36

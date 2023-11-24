@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NUE","14:14:13",7.9,-0.1,200,200,

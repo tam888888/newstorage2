@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CT6",133749,"/Date(1700807880000)/",5900,100,200,1190000,-200,false,-3.28
+"CT6",130222,"/Date(1700805720000)/",6000,100,100,600000,-100,true,-1.64

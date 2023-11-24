@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ILS",145911,"/Date(1700812740000)/",10900,100,800,10160000,-1000,false,-8.4
+"ILS",140803,"/Date(1700809680000)/",10900,100,700,9070000,-1000,false,-8.4
+"ILS",90011,"/Date(1700791200000)/",13300,600,600,7980000,1400,false,11.76

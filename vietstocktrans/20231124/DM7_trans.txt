@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"DM7",132805,"/Date(1700807280000)/",17000,100,1300,19970000,2200,false,14.86
+"DM7",100922,"/Date(1700795340000)/",15200,1200,1200,18270000,400,true,2.7

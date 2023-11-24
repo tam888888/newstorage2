@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TNP",130120,"/Date(1700805660000)/",21000,100,100,2100000,-1000,true,-4.55

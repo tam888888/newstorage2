@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152191938,"BHP","1700809311","unknown","100","5600","100","2023-11-24T07:01:51.700Z","2023-11-24T07:01:51.700Z"

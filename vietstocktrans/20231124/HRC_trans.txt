@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HRC",144431,"/Date(1700811903000)/",49450,100,200,10000000,-2550,true,-4.9
+"HRC",93030,"/Date(1700793038000)/",55000,100,100,5000000,3000,false,5.77

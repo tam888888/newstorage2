@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"S96",145919,"/Date(1700812740000)/",400,11000,15600,6700000,-100,true,-20
+"S96",103439,"/Date(1700796900000)/",500,4500,4600,2300000,0,false,0
+"S96",90507,"/Date(1700791500000)/",500,100,100,50000,0,false,0

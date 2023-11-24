@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HD2",143551,"/Date(1700811360000)/",26500,100,1400,35570000,500,false,1.92
+"HD2",110116,"/Date(1700798460000)/",25200,1100,1300,32920000,-800,true,-3.08
+"HD2",103943,"/Date(1700797200000)/",26000,200,200,5200000,0,true,0

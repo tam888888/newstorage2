@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"S74",111213,"/Date(1700799120000)/",10000,20,120,1200000,1000,true,11.11
+"S74",94142,"/Date(1700793720000)/",10000,100,100,1000000,1000,false,11.11

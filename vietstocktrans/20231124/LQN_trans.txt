@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LQN",130020,"/Date(1700805600000)/",2200,200,400,920000,100,false,4.76
+"LQN",90029,"/Date(1700791200000)/",2400,200,200,480000,300,false,14.29

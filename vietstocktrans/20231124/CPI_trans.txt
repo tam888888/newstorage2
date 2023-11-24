@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CPI",144659,"/Date(1700812020000)/",2500,1000,1300,3260000,0,true,0
+"CPI",102424,"/Date(1700796240000)/",2500,100,300,760000,0,true,0
+"CPI",92840,"/Date(1700792940000)/",2600,100,200,510000,100,false,4
+"CPI",92746,"/Date(1700792880000)/",2500,100,100,250000,0,true,0

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NAV","14:45:10",15.8,-0.15,500,500,

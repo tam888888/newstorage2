@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PCF",94935,"/Date(1700794200000)/",4700,1300,1800,8460000,-500,true,-9.62
+"PCF",93356,"/Date(1700793240000)/",4700,200,500,2350000,-500,false,-9.62
+"PCF",92312,"/Date(1700792580000)/",4700,300,300,1410000,-500,true,-9.62

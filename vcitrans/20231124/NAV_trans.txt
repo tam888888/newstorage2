@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152327416,"NAV","1700811895","unknown","500","15800","500","2023-11-24T07:45:08.768Z","2023-11-24T07:45:08.768Z"

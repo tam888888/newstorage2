@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VIM","14:31:06",18.6,-0.5,200,200,

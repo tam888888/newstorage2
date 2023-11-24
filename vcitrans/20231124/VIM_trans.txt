@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152326461,"VIM","1700811066","s","200","18600","200","2023-11-24T07:31:07.715Z","2023-11-24T07:31:07.715Z"

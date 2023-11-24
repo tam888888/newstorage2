@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"EID",144510,"/Date(1700811901000)/",20300,100,400,8000000,300,true,1.5
+"EID",133857,"/Date(1700807937000)/",20300,100,300,5970000,300,false,1.5
+"EID",110537,"/Date(1700798737000)/",19700,200,200,3940000,-300,true,-1.5

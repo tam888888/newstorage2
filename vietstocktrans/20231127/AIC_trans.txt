@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"AIC",111910,"/Date(1701058740000)/",12800,500,500,6400000,-100,false,-0.78

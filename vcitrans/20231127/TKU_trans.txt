@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152399450,"TKU","1701054732","unknown","300","10300","300","2023-11-27T03:12:13.474Z","2023-11-27T03:12:13.474Z"

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PWA",142242,"/Date(1701069780000)/",4200,100,1100,4420000,200,false,5
+"PWA",141155,"/Date(1701069120000)/",4000,200,1000,4000000,0,false,0
+"PWA",140803,"/Date(1701068880000)/",4000,800,800,3200000,0,false,0

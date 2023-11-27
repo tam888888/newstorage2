@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TDW","09:15:01",49.85,0,100,100,

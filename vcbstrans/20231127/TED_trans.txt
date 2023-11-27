@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TED","10:24:13",40.2,0.3,200,200,

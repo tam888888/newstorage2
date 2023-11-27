@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SCJ","14:25:39",3.8,-0.3,4000,4000,

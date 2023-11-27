@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PBT",94712,"/Date(1701053220000)/",8000,200,500,4020000,0,false,0
+"PBT",94528,"/Date(1701053100000)/",8000,100,300,2420000,0,false,0
+"PBT",94511,"/Date(1701053100000)/",8000,200,200,1620000,0,true,0

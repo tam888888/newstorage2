@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VRG","09:25:00",23.2,-2.2,6000,6000,

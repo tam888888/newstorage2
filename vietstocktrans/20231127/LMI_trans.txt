@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LMI",133417,"/Date(1701066840000)/",5800,1000,1518,8824200,-1000,false,-14.71
+"LMI",133414,"/Date(1701066840000)/",5800,500,518,3024200,-1000,false,-14.71

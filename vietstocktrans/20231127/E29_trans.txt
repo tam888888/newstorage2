@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"E29",144417,"/Date(1701071040000)/",4600,100,100,460000,300,false,6.98

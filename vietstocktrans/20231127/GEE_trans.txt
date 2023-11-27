@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GEE",140534,"/Date(1701068760000)/",27500,300,2700,74440000,-600,true,-2.14
+"GEE",130853,"/Date(1701065340000)/",27000,1400,2400,66190000,-1100,false,-3.91
+"GEE",130223,"/Date(1701064920000)/",28000,1000,1000,28000000,-100,true,-0.36

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CLH",140854,"/Date(1701068934000)/",24200,100,900,21810000,-400,false,-1.63
+"CLH",130702,"/Date(1701065222000)/",24200,500,800,19390000,-400,true,-1.63
+"CLH",92354,"/Date(1701051834000)/",24200,300,300,7290000,-400,false,-1.63

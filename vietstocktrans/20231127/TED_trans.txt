@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TED",102413,"/Date(1701055440000)/",40200,200,200,8040000,300,false,0.75

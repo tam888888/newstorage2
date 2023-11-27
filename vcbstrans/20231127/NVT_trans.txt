@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NVT","14:45:01",7.65,0,200,200,

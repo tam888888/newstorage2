@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TMG",144352,"/Date(1701071040000)/",46500,100,400,19170000,-1900,true,-3.93
+"TMG",95103,"/Date(1701053460000)/",48400,100,300,14520000,0,false,0
+"TMG",94744,"/Date(1701053280000)/",48400,200,200,9680000,0,false,0

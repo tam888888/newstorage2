@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ABR",100550,"/Date(1701054361000)/",13900,500,700,9000000,0,false,0
+"ABR",95727,"/Date(1701053857000)/",13900,100,200,2000000,0,false,0
+"ABR",95520,"/Date(1701053730000)/",13900,100,100,1000000,0,false,0

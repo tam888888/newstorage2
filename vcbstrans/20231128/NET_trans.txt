@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NET","13:00:03",59.6,-0.1,100,100,

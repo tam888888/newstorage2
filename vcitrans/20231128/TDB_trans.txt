@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152828936,"TDB","1701151319","unknown","100","39000","100","2023-11-28T06:02:01.279Z","2023-11-28T06:02:01.279Z"

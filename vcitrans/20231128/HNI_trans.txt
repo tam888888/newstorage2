@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152640281,"HNI","1701138328","s","100","21500","100","2023-11-28T02:25:30.088Z","2023-11-28T02:25:30.088Z"

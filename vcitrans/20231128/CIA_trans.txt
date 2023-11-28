@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152951420,"CIA","1701155320","b","100","9800","100","2023-11-28T07:08:40.343Z","2023-11-28T07:08:40.343Z"

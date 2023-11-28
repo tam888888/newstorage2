@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CVT",134111,"/Date(1701153684000)/",31200,1000,1400,43000000,-1800,false,-5.45
+"CVT",105946,"/Date(1701144007000)/",31200,100,400,12000000,-1800,false,-5.45
+"CVT",105946,"/Date(1701144007000)/",31200,300,300,9000000,-1800,false,-5.45

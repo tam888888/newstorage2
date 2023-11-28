@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BBT",132834,"/Date(1701152940000)/",9400,100,100,940000,400,false,4.44

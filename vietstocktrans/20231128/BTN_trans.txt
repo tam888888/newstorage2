@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BTN",145401,"/Date(1701158040000)/",3600,100,6700,23300000,100,false,2.86
+"BTN",141748,"/Date(1701155880000)/",3400,1600,6600,22940000,-100,true,-2.86
+"BTN",95654,"/Date(1701140220000)/",3500,5000,5000,17500000,0,false,0

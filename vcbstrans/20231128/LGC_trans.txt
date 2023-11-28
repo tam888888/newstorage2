@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"LGC","09:19:37",58.3,-0.1,100,100,"S"

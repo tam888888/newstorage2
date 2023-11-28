@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CC4",104912,"/Date(1701143340000)/",14100,100,100,1410000,100,false,0.71

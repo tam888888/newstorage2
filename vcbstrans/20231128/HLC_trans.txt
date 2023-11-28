@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"HLC","10:12:49",11.3,-0.2,500,500,

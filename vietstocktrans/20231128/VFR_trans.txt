@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VFR",94815,"/Date(1701139680000)/",12900,100,100,1290000,300,false,2.38

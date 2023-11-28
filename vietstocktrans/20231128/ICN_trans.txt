@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ICN",103811,"/Date(1701142680000)/",44500,500,700,31300000,100,false,0.23
+"ICN",93342,"/Date(1701138840000)/",45200,100,200,9050000,800,false,1.8
+"ICN",92122,"/Date(1701138060000)/",45300,100,100,4530000,900,false,2.03

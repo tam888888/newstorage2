@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HAF",142953,"/Date(1701156600000)/",16000,100,400,6960000,-1400,false,-8.05
+"HAF",112225,"/Date(1701145320000)/",15600,100,300,5360000,-1800,false,-10.34
+"HAF",90012,"/Date(1701136800000)/",19000,200,200,3800000,1600,false,9.2

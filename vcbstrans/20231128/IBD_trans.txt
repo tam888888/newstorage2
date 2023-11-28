@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"IBD","11:19:36",9.7,0,1800,1800,

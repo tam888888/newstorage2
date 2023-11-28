@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152854461,"BCP","1701152347","unknown","200","8600","200","2023-11-28T06:19:08.289Z","2023-11-28T06:19:08.289Z"

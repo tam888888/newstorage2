@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152638211,"DAE","1701138222","s","500","14600","500","2023-11-28T02:23:44.091Z","2023-11-28T02:23:44.091Z"

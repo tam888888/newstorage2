@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+152626910,"HU6","1701136865","unknown","100","5300","100","2023-11-28T02:01:07.045Z","2023-11-28T02:01:07.045Z"

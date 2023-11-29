@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CQT",111916,"/Date(1701231540000)/",10100,100,5300,53230000,-800,false,-7.34
+"CQT",111828,"/Date(1701231480000)/",10000,3000,5200,52220000,-900,true,-8.26
+"CQT",111813,"/Date(1701231480000)/",10100,2200,2200,22220000,-800,false,-7.34

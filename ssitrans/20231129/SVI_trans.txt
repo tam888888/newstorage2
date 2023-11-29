@@ -1,0 +1,5 @@
+"stockNo","price","vol","accumulatedVol","time","ref","side","priceChange","priceChangePercent","changeType","__typename"
+"hose:2938",56100,3000,4000,"14:11:47",56100,"bu",0,0,"R","LeTable"
+"hose:2938",56100,800,1000,"10:22:43",56100,"sd",0,0,"R","LeTable"
+"hose:2938",56100,100,200,"10:22:43",56100,"sd",0,0,"R","LeTable"
+"hose:2938",56100,100,100,"09:48:50",56100,"bu",0,0,"R","LeTable"

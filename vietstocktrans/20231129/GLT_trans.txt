@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"GLT",110637,"/Date(1701230797000)/",18000,500,1800,32400000,0,false,0
+"GLT",101212,"/Date(1701227532000)/",18000,1000,1300,23400000,0,false,0
+"GLT",93724,"/Date(1701225444000)/",18000,300,300,5400000,0,false,0

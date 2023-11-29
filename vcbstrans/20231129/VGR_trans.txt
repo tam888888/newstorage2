@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VGR","13:37:26",39.3,2.3,100,100,

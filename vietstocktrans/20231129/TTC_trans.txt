@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TTC",141447,"/Date(1701242087000)/",13000,1100,1400,18200000,-300,false,-2.26
+"TTC",135638,"/Date(1701240998000)/",13000,100,300,3900000,-300,false,-2.26
+"TTC",111430,"/Date(1701231270000)/",13100,200,200,2600000,-200,false,-1.5

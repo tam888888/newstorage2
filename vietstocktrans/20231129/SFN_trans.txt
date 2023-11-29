@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SFN",111416,"/Date(1701231256000)/",17400,100,100,1740000,-1800,false,-9.38

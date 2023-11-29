@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+153114375,"VFC","1701229191","s","100","75600","100","2023-11-29T03:39:52.487Z","2023-11-29T03:39:52.487Z"

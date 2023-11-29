@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SCL",92901,"/Date(1701224940000)/",19000,1100,2100,39900000,0,true,0
+"SCL",91712,"/Date(1701224220000)/",19000,300,1000,19000000,0,false,0
+"SCL",91657,"/Date(1701224220000)/",19000,700,700,13300000,0,false,0

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TTD","13:11:02",71.5,0,600,600,

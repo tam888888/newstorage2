@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SMA",93545,"/Date(1701225355000)/",9500,100,300,2000000,540,false,6.03
+"SMA",93545,"/Date(1701225355000)/",9400,100,200,1000000,440,false,4.91
+"SMA",93545,"/Date(1701225355000)/",8960,100,100,0,0,false,0

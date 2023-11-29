@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"PCE","09:50:49",19.8,0.1,100,100,

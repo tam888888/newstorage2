@@ -1,0 +1,3 @@
+"symbol","time","price","change","vol","total","side"
+"VIF","13:52:46",18,1,200,500,
+"VIF","09:38:39",18,1,300,300,

@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TN1",92547,"/Date(1701224756000)/",15400,100,200,3000000,100,false,0.65
+"TN1",92547,"/Date(1701224756000)/",15300,100,100,1000000,0,false,0

@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"MDG","14:45:00",12.8,0.8,100,100,

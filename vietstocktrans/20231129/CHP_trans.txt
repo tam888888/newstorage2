@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CHP",141200,"/Date(1701241953000)/",24150,400,2500,60000000,150,true,0.63
+"CHP",141200,"/Date(1701241953000)/",24150,100,2100,50000000,150,true,0.63
+"CHP",100705,"/Date(1701227237000)/",24100,2000,2000,48000000,100,true,0.42

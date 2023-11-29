@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TW3",142425,"/Date(1701242640000)/",13000,100,100,1300000,100,true,0.78

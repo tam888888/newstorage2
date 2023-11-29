@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VFC","10:39:51",75.6,-13.3,100,100,

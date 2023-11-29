@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+153158450,"LGC","1701232033","s","100","54400","100","2023-11-29T04:27:27.514Z","2023-11-29T04:27:27.514Z"

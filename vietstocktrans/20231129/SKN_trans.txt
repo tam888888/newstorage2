@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SKN",145722,"/Date(1701244620000)/",8200,4500,7600,62560000,-1100,true,-11.83
+"SKN",141142,"/Date(1701241920000)/",8200,3000,3100,25660000,-1100,true,-11.83
+"SKN",95550,"/Date(1701226560000)/",10600,100,100,1060000,1300,true,13.98

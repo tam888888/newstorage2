@@ -1,0 +1,3 @@
+"symbol","time","price","change","vol","total","side"
+"PTI","10:18:59",50,0,100,600,
+"PTI","10:17:30",50,0,500,500,

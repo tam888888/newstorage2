@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PPY",95547,"/Date(1701226547000)/",8700,500,800,7140000,-400,true,-4.4
+"PPY",94417,"/Date(1701225857000)/",9100,100,300,2730000,0,false,0
+"PPY",93855,"/Date(1701225535000)/",9100,200,200,1820000,0,false,0

@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"RIC",135559,"/Date(1701240960000)/",4100,1400,2000,8180000,0,false,0
+"RIC",130613,"/Date(1701237960000)/",4000,200,600,2440000,-100,true,-2.44
+"RIC",111743,"/Date(1701231480000)/",4100,100,400,1640000,0,false,0
+"RIC",93044,"/Date(1701225060000)/",4100,300,300,1230000,0,false,0

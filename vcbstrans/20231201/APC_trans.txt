@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"APC","13:02:34",8.95,-0.15,100,100,"B"

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ICC",92424,"/Date(1701397440000)/",24800,100,100,2480000,-600,false,-2.36

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LKW",112742,"/Date(1701404880000)/",30000,300,300,9000000,100,false,0.33

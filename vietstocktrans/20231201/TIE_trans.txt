@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TIE",142636,"/Date(1701415620000)/",6800,1500,1724,11764400,-1200,true,-15
+"TIE",103434,"/Date(1701401700000)/",6800,200,224,1564400,-1200,true,-15

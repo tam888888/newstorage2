@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TPH",142056,"/Date(1701415256000)/",14100,100,100,1410000,-500,false,-3.42

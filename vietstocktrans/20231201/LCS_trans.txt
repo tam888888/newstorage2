@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LCS",143740,"/Date(1701416280000)/",1000,1,259,253200,0,false,0
+"LCS",130147,"/Date(1701410520000)/",1000,100,258,252200,0,false,0
+"LCS",92426,"/Date(1701397440000)/",1000,58,158,152200,0,false,0
+"LCS",91800,"/Date(1701397080000)/",1000,100,100,100000,0,false,0

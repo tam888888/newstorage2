@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"STH",145711,"/Date(1701417420000)/",13900,1400,1600,21850000,100,false,0.72
+"STH",142733,"/Date(1701415680000)/",12700,100,200,2550000,-1100,true,-7.97
+"STH",142718,"/Date(1701415620000)/",12800,100,100,1280000,-1000,true,-7.25

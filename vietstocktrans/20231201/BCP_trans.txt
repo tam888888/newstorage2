@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BCP",140457,"/Date(1701414300000)/",9000,100,600,5200000,400,false,4.65
+"BCP",94944,"/Date(1701399000000)/",8600,500,500,4300000,0,false,0

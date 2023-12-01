@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PTN",145903,"/Date(1701417540000)/",3600,200,200,700000,300,false,9.09

@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BKC",134937,"/Date(1701413377000)/",7000,100,400,2780000,-100,false,-1.41
+"BKC",134902,"/Date(1701413342000)/",7000,100,300,2080000,-100,false,-1.41
+"BKC",104424,"/Date(1701402263000)/",6900,200,200,1380000,-200,false,-2.82

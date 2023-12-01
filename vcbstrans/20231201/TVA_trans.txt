@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TVA","10:17:11",9.6,-1.3,100,100,

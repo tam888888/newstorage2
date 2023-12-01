@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CEG",132631,"/Date(1701412020000)/",10000,88,6275,62750000,0,false,0
+"CEG",130239,"/Date(1701410580000)/",10000,5200,6187,61870000,0,false,0
+"CEG",95811,"/Date(1701399480000)/",10000,87,987,9870000,0,false,0
+"CEG",95747,"/Date(1701399480000)/",10000,900,900,9000000,0,false,0

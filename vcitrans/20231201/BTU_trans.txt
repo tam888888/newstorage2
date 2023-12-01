@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+153743955,"BTU","1701399012","b","100","13800","100","2023-12-01T02:50:14.605Z","2023-12-01T02:50:14.605Z"

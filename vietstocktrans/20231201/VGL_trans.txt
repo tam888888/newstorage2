@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VGL",111919,"/Date(1701404340000)/",22000,100,100,2200000,1500,true,7.32

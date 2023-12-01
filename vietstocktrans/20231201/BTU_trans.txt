@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BTU",95013,"/Date(1701399000000)/",13800,100,100,1380000,1800,false,15

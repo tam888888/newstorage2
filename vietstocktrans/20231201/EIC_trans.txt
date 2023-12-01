@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"EIC",142049,"/Date(1701415260000)/",23500,1000,1800,41900000,400,false,1.73
+"EIC",91907,"/Date(1701397140000)/",23000,800,800,18400000,-100,true,-0.43

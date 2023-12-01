@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SWC","09:19:29",23,-0.6,1000,1000,

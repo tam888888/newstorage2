@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+153691708,"SPM","1701396892","unknown","100","11300","0","2023-12-01T02:15:05.595Z","2023-12-01T02:15:05.595Z"

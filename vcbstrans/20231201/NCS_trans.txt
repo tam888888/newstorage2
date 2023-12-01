@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NCS","09:26:16",20,0,2100,2100,

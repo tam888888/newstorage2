@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CBI",94338,"/Date(1701398640000)/",7100,300,300,2130000,-200,false,-2.74

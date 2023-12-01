@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VGP",92205,"/Date(1701397325000)/",33700,500,500,16810000,100,false,0.3

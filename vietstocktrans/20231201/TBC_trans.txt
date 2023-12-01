@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TBC",141343,"/Date(1701414858000)/",38500,100,100,3000000,500,false,1.32

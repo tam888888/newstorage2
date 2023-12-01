@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ILB",141635,"/Date(1701415030000)/",29000,200,400,11000000,0,false,0
+"ILB",130006,"/Date(1701410401000)/",29000,100,200,5000000,0,false,0
+"ILB",130006,"/Date(1701410401000)/",29000,100,100,2000000,0,false,0

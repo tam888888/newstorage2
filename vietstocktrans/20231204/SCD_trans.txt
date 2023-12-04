@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SCD",131148,"/Date(1701670342000)/",15500,600,1500,23000000,-100,true,-0.64
+"SCD",125947,"/Date(1701669603000)/",15000,300,900,13000000,-600,false,-3.85
+"SCD",103517,"/Date(1701660936000)/",15600,600,600,9000000,0,false,0

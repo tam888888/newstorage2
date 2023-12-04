@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+154370834,"MRF","1701670344","s","500","27700","500","2023-12-04T06:12:25.517Z","2023-12-04T06:12:25.517Z"

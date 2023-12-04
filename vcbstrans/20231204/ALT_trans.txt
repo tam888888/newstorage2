@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"ALT","13:51:45",13.1,0,500,500,

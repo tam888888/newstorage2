@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+154501960,"VGR","1701673260","b","100","37800","100","2023-12-04T07:01:02.634Z","2023-12-04T07:01:02.634Z"

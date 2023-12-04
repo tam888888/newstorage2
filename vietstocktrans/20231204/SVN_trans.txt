@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SVN",144539,"/Date(1701675902000)/",3800,1100,1317,4994600,0,false,0
+"SVN",131024,"/Date(1701670224000)/",3800,100,217,814600,0,false,0
+"SVN",130041,"/Date(1701669607000)/",3700,100,117,434600,-100,true,-2.63

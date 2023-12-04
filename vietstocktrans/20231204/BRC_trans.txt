@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BRC",125941,"/Date(1701669601000)/",11750,300,300,3000000,450,false,3.98

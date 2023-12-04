@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CVT","14:20:43",32.65,0.65,100,100,"S"

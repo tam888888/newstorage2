@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HVA",142548,"/Date(1701674760000)/",4100,100,500,2030000,100,false,2.5
+"HVA",90111,"/Date(1701655200000)/",4000,200,400,1620000,0,false,0
+"HVA",90051,"/Date(1701655200000)/",4100,200,200,820000,100,false,2.5

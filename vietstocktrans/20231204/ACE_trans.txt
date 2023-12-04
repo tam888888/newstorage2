@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"ACE",145137,"/Date(1701676320000)/",36000,1500,2400,86400000,-300,false,-0.83
+"ACE",110345,"/Date(1701662640000)/",36000,600,900,32400000,-300,false,-0.83
+"ACE",105306,"/Date(1701661980000)/",36000,300,300,10800000,-300,false,-0.83

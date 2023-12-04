@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+154557191,"BHA","1701674182","unknown","500","15500","500","2023-12-04T07:16:24.589Z","2023-12-04T07:16:24.589Z"

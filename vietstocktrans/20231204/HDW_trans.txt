@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HDW",135435,"/Date(1701672900000)/",12400,1000,1000,12400000,200,false,1.64

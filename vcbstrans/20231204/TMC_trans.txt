@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TMC","14:12:00",9.2,-0.1,100,100,

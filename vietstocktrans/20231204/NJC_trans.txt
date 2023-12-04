@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NJC",112039,"/Date(1701663660000)/",20400,100,200,3730000,1100,false,5.7
+"NJC",111156,"/Date(1701663120000)/",16900,100,100,1690000,-2400,true,-12.44

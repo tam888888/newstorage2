@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CNC",112730,"/Date(1701664080000)/",29400,700,700,20530000,100,false,0.34

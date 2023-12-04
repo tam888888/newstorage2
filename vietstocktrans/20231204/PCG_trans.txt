@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PCG",140634,"/Date(1701673594000)/",6500,200,1700,11150000,-100,true,-1.52
+"PCG",140127,"/Date(1701673287000)/",6500,500,1500,9850000,-100,true,-1.52
+"PCG",130245,"/Date(1701669765000)/",6600,1000,1000,6600000,0,true,0

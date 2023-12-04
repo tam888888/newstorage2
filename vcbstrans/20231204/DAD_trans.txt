@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DAD","13:29:40",20.2,-0.2,5700,5700,

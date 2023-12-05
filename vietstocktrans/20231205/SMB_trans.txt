@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SMB",100145,"/Date(1701745315000)/",37000,2000,2500,92000000,0,false,0
+"SMB",93004,"/Date(1701743413000)/",37000,300,500,18000000,0,true,0
+"SMB",92732,"/Date(1701743259000)/",37000,200,200,7000000,0,false,0

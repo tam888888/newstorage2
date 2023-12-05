@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"HU6","14:48:12",5.2,-0.4,200,200,

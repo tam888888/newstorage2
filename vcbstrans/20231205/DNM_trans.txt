@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DNM","13:57:11",17,-0.7,100,100,

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155056375,"CCV","1701761212","b","100","34000","100","2023-12-05T07:26:53.865Z","2023-12-05T07:26:53.865Z"

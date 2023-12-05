@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"L43","09:00:14",4.2,0,100,100,

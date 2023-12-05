@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"FCS",141310,"/Date(1701760380000)/",7200,100,800,5460000,200,false,2.86
+"FCS",95514,"/Date(1701744900000)/",6800,600,700,4740000,-200,true,-2.86
+"FCS",91903,"/Date(1701742740000)/",6600,100,100,660000,-400,true,-5.71

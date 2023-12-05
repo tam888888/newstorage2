@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+154801693,"CGV","1701748444","unknown","100","2700","100","2023-12-05T03:54:05.758Z","2023-12-05T03:54:05.758Z"

@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155071203,"HNA","1701761738","s","100","18200","100","2023-12-05T07:35:38.844Z","2023-12-05T07:35:38.844Z"

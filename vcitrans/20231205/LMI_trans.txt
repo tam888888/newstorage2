@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155071502,"LMI","1701762160","s","100","9500","100","2023-12-05T07:42:41.853Z","2023-12-05T07:42:41.853Z"

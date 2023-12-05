@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NTW","09:50:45",17,-0.7,8200,8200,

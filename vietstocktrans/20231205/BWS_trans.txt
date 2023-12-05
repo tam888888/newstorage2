@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BWS",140239,"/Date(1701759780000)/",29000,1000,2100,60350000,500,false,1.75
+"BWS",130757,"/Date(1701756480000)/",28500,500,1100,31350000,0,true,0
+"BWS",90545,"/Date(1701741960000)/",28500,600,600,17100000,0,true,0

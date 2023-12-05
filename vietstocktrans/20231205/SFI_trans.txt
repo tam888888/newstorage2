@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SFI",142431,"/Date(1701761106000)/",31050,400,800,24000000,0,true,0
+"SFI",135232,"/Date(1701759184000)/",31050,100,400,12000000,0,true,0
+"SFI",105202,"/Date(1701748336000)/",31050,300,300,9000000,0,true,0

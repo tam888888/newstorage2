@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"PLA",134825,"/Date(1701758880000)/",6300,600,1400,8820000,100,false,1.61
+"PLA",101210,"/Date(1701745920000)/",6300,300,800,5040000,100,true,1.61
+"PLA",100443,"/Date(1701745500000)/",6300,500,500,3150000,100,false,1.61

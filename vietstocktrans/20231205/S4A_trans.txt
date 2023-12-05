@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"S4A",93847,"/Date(1701743938000)/",34000,200,500,16000000,0,false,0
+"S4A",93847,"/Date(1701743938000)/",33900,300,300,10000000,-100,false,-0.29

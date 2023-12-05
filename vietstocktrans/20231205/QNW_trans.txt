@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"QNW",141433,"/Date(1701760500000)/",7800,100,200,1380000,1000,false,14.71
+"QNW",101003,"/Date(1701745800000)/",6000,100,100,600000,-800,false,-11.76

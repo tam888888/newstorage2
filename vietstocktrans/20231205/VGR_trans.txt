@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VGR",144050,"/Date(1701762060000)/",39900,100,100,3990000,2100,false,5.56

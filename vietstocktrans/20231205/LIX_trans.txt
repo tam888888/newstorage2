@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LIX",102736,"/Date(1701746851000)/",49300,100,100,4000000,50,true,0.1

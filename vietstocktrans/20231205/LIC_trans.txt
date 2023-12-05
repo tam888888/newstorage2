@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LIC",95154,"/Date(1701744720000)/",16000,100,700,10280000,1000,false,6.67
+"LIC",92442,"/Date(1701743100000)/",14200,400,600,8680000,-800,true,-5.33
+"LIC",92417,"/Date(1701743040000)/",15000,200,200,3000000,0,false,0

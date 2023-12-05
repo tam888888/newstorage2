@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BQB",111315,"/Date(1701749580000)/",3600,500,800,2880000,200,true,5.88
+"BQB",104930,"/Date(1701748200000)/",3600,100,300,1080000,200,true,5.88
+"BQB",102557,"/Date(1701746760000)/",3600,200,200,720000,200,true,5.88

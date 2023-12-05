@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"SZB",144548,"/Date(1701762302000)/",32800,2000,2600,84070000,1500,false,4.79
+"SZB",112108,"/Date(1701750068000)/",30700,100,600,18470000,-600,true,-1.92
+"SZB",92128,"/Date(1701742888000)/",30800,500,500,15400000,-500,false,-1.6

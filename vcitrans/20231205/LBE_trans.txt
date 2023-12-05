@@ -1,0 +1,3 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155072063,"LBE","1701762318","unknown","100","14600","100","2023-12-05T07:45:20.856Z","2023-12-05T07:45:20.856Z"
+155071552,"LBE","1701762229","b","0","14600","0","2023-12-05T07:43:50.854Z","2023-12-05T07:43:50.854Z"

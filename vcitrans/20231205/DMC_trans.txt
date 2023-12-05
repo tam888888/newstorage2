@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+154610534,"DMC","1701742493","unknown","100","58300","0","2023-12-05T02:15:04.666Z","2023-12-05T02:15:04.666Z"

@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"LHC",144546,"/Date(1701762301000)/",51700,1200,1201,62092800,-1100,false,-2.08

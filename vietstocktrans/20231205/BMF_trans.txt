@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BMF",140413,"/Date(1701759840000)/",8400,100,4092,33575900,200,false,2.44
+"BMF",135504,"/Date(1701759300000)/",8200,2000,3992,32735900,0,true,0
+"BMF",133915,"/Date(1701758340000)/",8200,1900,1992,16335900,0,true,0

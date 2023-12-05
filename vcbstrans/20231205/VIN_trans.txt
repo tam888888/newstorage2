@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VIN","10:04:41",18.1,-0.9,400,400,

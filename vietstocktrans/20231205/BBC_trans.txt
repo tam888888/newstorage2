@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BBC",130824,"/Date(1701756534000)/",52000,100,200,10000000,-500,true,-0.95
+"BBC",91452,"/Date(1701742500000)/",55900,100,100,5000000,3400,false,6.48

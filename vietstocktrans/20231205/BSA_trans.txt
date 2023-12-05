@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"BSA",141310,"/Date(1701760380000)/",17800,1200,3500,62300000,100,true,0.56
+"BSA",140143,"/Date(1701759720000)/",17800,300,2300,40940000,100,true,0.56
+"BSA",103321,"/Date(1701747180000)/",17800,2000,2000,35600000,100,false,0.56

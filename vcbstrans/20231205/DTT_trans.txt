@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"DTT","10:27:12",23,1.1,100,100,"S"

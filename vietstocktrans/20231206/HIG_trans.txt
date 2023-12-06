@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"HIG",94320,"/Date(1701830580000)/",8500,7600,7600,64600000,0,false,0

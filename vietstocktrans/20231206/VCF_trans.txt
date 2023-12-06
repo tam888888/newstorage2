@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"VCF",105429,"/Date(1701834883000)/",196000,100,500,97000000,11000,false,5.95
+"VCF",105429,"/Date(1701834883000)/",193600,100,400,77000000,8600,false,4.65
+"VCF",105429,"/Date(1701834883000)/",193500,300,300,58000000,8500,false,4.59

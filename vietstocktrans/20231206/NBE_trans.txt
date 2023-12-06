@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"NBE",133728,"/Date(1701844620000)/",12000,500,1100,13200000,0,false,0
+"NBE",132249,"/Date(1701843780000)/",12000,100,600,7200000,0,false,0
+"NBE",105852,"/Date(1701835140000)/",12000,500,500,6000000,0,false,0

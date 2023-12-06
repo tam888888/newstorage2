@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155170323,"USC","1701831977","s","100","10600","100","2023-12-06T03:06:18.201Z","2023-12-06T03:06:18.201Z"

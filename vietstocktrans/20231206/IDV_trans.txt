@@ -1,0 +1,5 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"IDV",144549,"/Date(1701848702000)/",38000,600,830,31537000,0,true,0
+"IDV",112439,"/Date(1701836678000)/",38000,100,230,8737000,0,true,0
+"IDV",101954,"/Date(1701832794000)/",38000,30,130,4937000,0,false,0
+"IDV",91955,"/Date(1701829195000)/",38000,100,100,3800000,0,false,0

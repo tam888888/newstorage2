@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155513434,"ICI","1701847783","unknown","100","7400","100","2023-12-06T07:29:44.545Z","2023-12-06T07:29:44.545Z"

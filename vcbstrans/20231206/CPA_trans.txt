@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"CPA","14:31:32",4.5,-0.5,100,100,

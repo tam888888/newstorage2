@@ -1,0 +1,2 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"USC",100616,"/Date(1701831960000)/",10600,100,100,1060000,-1800,true,-14.52

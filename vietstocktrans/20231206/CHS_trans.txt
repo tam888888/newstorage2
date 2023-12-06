@@ -1,0 +1,3 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"CHS",135716,"/Date(1701845820000)/",10000,100,200,1990000,200,false,2.04
+"CHS",133710,"/Date(1701844620000)/",9900,100,100,990000,100,false,1.02

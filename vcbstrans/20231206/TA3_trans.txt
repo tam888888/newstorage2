@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"TA3","14:44:23",5.4,0,100,100,

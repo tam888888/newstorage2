@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SDG","13:28:50",15.9,0,500,500,

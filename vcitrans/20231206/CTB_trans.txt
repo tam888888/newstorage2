@@ -1,0 +1,2 @@
+"id","symbol","truncTime","matchType","matchVol","matchPrice","accumulatedVolume","createdAt","updatedAt"
+155400308,"CTB","1701845437","unknown","500","20300","500","2023-12-06T06:50:38.418Z","2023-12-06T06:50:38.418Z"

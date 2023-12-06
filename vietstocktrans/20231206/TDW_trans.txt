@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"TDW",144427,"/Date(1701848701000)/",48050,100,300,14000000,-3550,false,-6.88
+"TDW",94128,"/Date(1701830499000)/",48050,100,200,9000000,-3550,true,-6.88
+"TDW",91457,"/Date(1701828900000)/",51500,100,100,5000000,-100,false,-0.19

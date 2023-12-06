@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"SNZ","10:51:51",27.6,0,800,800,

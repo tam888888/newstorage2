@@ -1,0 +1,4 @@
+"Stockcode","Package","TradingDate","Price","Vol","TotalVol","TotalVal","Change","IsBuy","PerChange"
+"EPH",135125,"/Date(1701845460000)/",12900,1900,2500,32250000,0,true,0
+"EPH",134821,"/Date(1701845280000)/",12900,400,600,7740000,0,true,0
+"EPH",132953,"/Date(1701844200000)/",12900,200,200,2580000,0,false,0

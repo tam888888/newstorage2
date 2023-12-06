@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"NDC","10:59:11",179.4,-31.6,100,100,

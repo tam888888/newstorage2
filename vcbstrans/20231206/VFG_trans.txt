@@ -1,0 +1,2 @@
+"symbol","time","price","change","vol","total","side"
+"VFG","13:42:38",36.5,1.4,100,100,"B"
